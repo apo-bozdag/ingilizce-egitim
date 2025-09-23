@@ -99,7 +99,7 @@ Nesneleri, kişileri ve durumları karşılaştırmayı öğrenin.
 
 | Bölüm | Durum | İlerleme |
 |-------|-------|----------|
-| 1. Temel İngilizce | 🔄 Devam Ediyor | 17% |
+| 1. Temel İngilizce | ✅ Tamamlandı | 100% |
 | 2. Günlük Rutin | 📝 Planlandı | 0% |
 | 3. Geçmiş Zaman | 📝 Planlandı | 0% |
 | 4. Gelecek Zaman | 📝 Planlandı | 0% |
