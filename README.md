@@ -101,7 +101,7 @@ Nesneleri, kişileri ve durumları karşılaştırmayı öğrenin.
 |-------|-------|----------|
 | 1. Temel İngilizce | ✅ Tamamlandı | 100% |
 | 2. Günlük Rutin | ✅ Tamamlandı | 100% |
-| 3. Geçmiş Zaman | 📝 Planlandı | 0% |
+| 3. Geçmiş Zaman | ✎ Devam Ediyor | 20% |
 | 4. Gelecek Zaman | 📝 Planlandı | 0% |
 | 5. Karşılaştırma | 📝 Planlandı | 0% |
 | 6. Şimdiki Zaman | 📝 Planlandı | 0% |
