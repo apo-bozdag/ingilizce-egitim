@@ -316,7 +316,7 @@ Olumsuz cümlelerde **didn't** kullanıldığı için ana fiil **base form**'da 
 
 ### **Düzenli Fiil Hataları**
 | ❌ Yanlış | ✅ Doğru | Açıklama |
-|-----------|-----------|-----------||
+|-----------|-----------|-----------|
 | I studyed English | I studied English | y → i değişimi |
 | She stoped the car | She stopped the car | Son harf iki katına çıkar |
 | We playyed football | We played football | Sesli harf + y → sadece -ed |
@@ -324,7 +324,7 @@ Olumsuz cümlelerde **didn't** kullanıldığı için ana fiil **base form**'da 
 
 ### **Düzensiz Fiil Hataları**
 | ❌ Yanlış | ✅ Doğru | Açıklama |
-|-----------|-----------|-----------||
+|-----------|-----------|-----------|
 | I goed to school | I went to school | "Go" düzensiz fiil |
 | She comed home | She came home | "Come" düzensiz fiil |
 | We buyed a car | We bought a car | "Buy" düzensiz fiil |
@@ -332,7 +332,7 @@ Olumsuz cümlelerde **didn't** kullanıldığı için ana fiil **base form**'da 
 
 ### **Olumsuz ve Soru Hataları**
 | ❌ Yanlış | ✅ Doğru | Açıklama |
-|-----------|-----------|-----------||
+|-----------|-----------|-----------|
 | I didn't went | I didn't go | Didn't + base form |
 | She didn't came | She didn't come | Didn't + base form |
 | Did you went? | Did you go? | Did + base form |
@@ -340,7 +340,7 @@ Olumsuz cümlelerde **didn't** kullanıldığı için ana fiil **base form**'da 
 
 ### **"Be" Fiili Hataları**
 | ❌ Yanlış | ✅ Doğru | Açıklama |
-|-----------|-----------|-----------||
+|-----------|-----------|-----------|
 | I didn't was there | I wasn't there | "Be" fiili özel |
 | Did you were happy? | Were you happy? | "Be" fiili özel |
 | She didn't were ready | She wasn't ready | "Be" fiili özel |
