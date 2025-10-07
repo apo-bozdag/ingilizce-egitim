@@ -1,130 +1,264 @@
 # 📚 İngilizce Eğitim Rehberi
 
-Bu repository, İngilizce öğrenmek isteyenler için kapsamlı ve sistematik bir eğitim programı sunmaktadır. Başlangıç seviyesinden ileri düzeye kadar, tüm İngilizce öğrenme ihtiyaçlarınızı karşılayacak şekilde yapılandırılmıştır.
+Bu repository, İngilizce öğrenmek isteyenler için kapsamlı ve sistematik bir eğitim programı sunmaktadır. CEFR (Common European Framework of Reference) standartlarına göre yapılandırılmış, A1 seviyesinden B2 seviyesine kadar ilerleyen bir yol haritası sunar.
 
-## 🎯 Hedef Kitle
+## 🎯 Ana Hedef
 
-- İngilizce öğrenmeye yeni başlayanlar
-- Temel İngilizce bilgisini pekiştirmek isteyenler
-- Orta ve ileri düzey İngilizce becerilerini geliştirmek isteyenler
-- Sistematik bir yaklaşımla İngilizce öğrenmek isteyenler
+**A1 → A2 Seviyesine 12 Hafta İçinde Ulaşmak**
 
-## 📖 Program İçeriği
+Haftalık 4 gün, günde 60 dakika + günlük 10-15 dakika kelime tekrarı ile yapılandırılmış yoğun bir program.
 
-### 1️⃣ **Temel İngilizce ve Kendini Tanıtma**
-Temelden başlayarak İngilizce'nin temel taşlarını öğrenin.
+## 🗓️ Haftalık Çalışma Planı (Haftada 4 Gün × 60 dk)
 
-- **İngilizce Alfabe ve Telaffuz Kuralları**
-- **Selamlaşma ve Vedalaşma İfadeleri**
-- **Kişisel Bilgileri Sorma ve Cevaplama** (Ad, Yaş, Uyruk, Meslek)
-- **"To Be" Fiili**: Am, Is, Are
-- **Basit Cümle Kurma**: Özne + Fiil + Nesne
-- **Sayılar ve Temel Nesneler**
+Her gün 60 dakikalık çalışma bloğu: **30dk ana görev + 20dk ek beceri + 10dk günlük tekrar**
 
-### 2️⃣ **Günlük Rutin ve Zaman Kavramı**
-Günlük hayatta ihtiyaç duyacağınız zaman ifadeleri ve rutinleri öğrenin.
+### 📅 Gün 1 (Salı): Dinleme + Özet Yazma
+- **30 dk**: Podcast/Haber dinleme (BBC, VOA)
+- **20 dk**: Özet yazma (3-5 cümle)
+- **10 dk**: Günlük kelime tekrarı
+- **Çıktı**: Özet metni + yeni kelimeler
 
-- **Basit Zaman (Simple Present Tense)**: Alışkanlıklar ve Rutinler
-- **Saatleri Söyleme ve Anlama**
-- **Günlük Aktiviteleri İfade Etme**
-- **Sıklık Zarfları** (Always, Usually, Often, Sometimes, Never)
-- **Yönleri Tarif Etme**
-- **Hava Durumu Hakkında Konuşma**
+### 📅 Gün 2 (Çarşamba): Konuşma Pratiği
+- **20 dk**: Konu hazırlığı (kalıp cümler, script)
+- **25 dk**: Konuşma kaydı yapma
+- **15 dk**: Dinle ve değerlendir
+- **Çıktı**: 1-2 dakikalık konuşma kaydı
 
-### 3️⃣ **Geçmiş Zaman ve Hikaye Anlatma**
-Geçmiş olayları anlatma ve hikaye kurma becerilerinizi geliştirin.
+### 📅 Gün 3 (Perşembe): Gramer + Yazma
+- **30 dk**: Gramer çalışması (hedef konu)
+- **20 dk**: Yazma pratiği (50-120 kelime)
+- **10 dk**: Günlük kelime tekrarı
+- **Çıktı**: Gramer cümleleri + paragraf
 
-- **Past Simple Tense**: Geçmiş Olayları Anlatma
-- **Düzenli ve Düzensiz Fiiller**
-- **Zaman İfadeleri** (Yesterday, Last Week, Ago)
-- **Hikaye Anlatma Teknikleri**
-- **Geçmişteki Deneyimleri Paylaşma**
-- **Tarih ve Zaman Belirtme**
+### 📅 Gün 4 (Cuma): Kelime + Okuma
+- **30 dk**: Yeni kelime öğrenimi (15-20 kelime)
+- **20 dk**: Okuma pratiği (WPM ölçümü)
+- **10 dk**: Haftalık kelime özeti
+- **Çıktı**: Kelime listesi + cümleler
 
-### 4️⃣ **Gelecek Zaman ve Planlar**
-Gelecekle ilgili planlarınızı ve tahminlerinizi İngilizce ifade edin.
+### ⭐ Günlük Ek (10-15 dk)
+- Anki/Quizlet ile spaced repetition
+- Öğrenilen kelimelerle cümle üretimi
+- Her gün aynı saatte tekrar yapın
 
-- **Future Simple Tense (Will)**: Tahminler ve Kararlar
-- **Going To**: Planlar ve Niyetler
-- **Present Continuous for Future**: Kesin Planlar
-- **Gelecekle İlgili İfadeler** (Tomorrow, Next Week, In the Future)
-- **Tahmin ve Öngörü İfadeleri**
-- **Randevu Alıp Verme**
+## 📖 İçerik Yapısı
 
-### 5️⃣ **Karşılaştırma ve Sıfatlar**
-Nesneleri, kişileri ve durumları karşılaştırmayı öğrenin.
+Repository aşağıdaki CEFR seviyelerine göre organize edilmiştir:
 
-- **Sıfatlar ve Kullanımları**
-- **Comparative (Karşılaştırma)**: -er, more
-- **Superlative (Üstünlük)**: -est, most
-- **As...As Karşılaştırmaları**
-- **Renk, Şekil ve Boyut İfadeleri**
-- **Kişilik ve Görünüş Tanımlama**
+### 🔰 A1 Seviyesi (Başlangıç)
+Temel iletişim becerileri ve günlük yaşamda en sık kullanılan ifadeler.
 
-### 6️⃣ **Şimdiki Zaman ve Devam Eden Eylemler**
-Şu anda olan olayları ve devam eden durumları ifade etmeyi öğrenin.
+**Konular**:
+1. İngilizce Alfabe ve Telaffuz
+2. Selamlaşma ve Tanışma
+3. To Be Fiili (am, is, are)
+4. Basit Cümle Yapısı (SVO)
+5. Sayılar ve Nesneler
+6. Günlük Rutinler (Simple Present)
+7. Zaman ve Sıklık İfadeleri
+8. Yön Tarifi ve Hava Durumu
 
-- **Present Continuous Tense**: Şu Anda Olan Eylemler
-- **Stative Verbs**: Durumu İfade Eden Fiiller
-- **Present Simple vs Present Continuous**
-- **Anlık Eylem ve Durum Bildirimi**
-- **Telefon Konuşmaları ve Etkileşimler**
-- **Mekân ve Konum Belirtme**
+**Hedef Metrikler**:
+- Kelime: 300-500 aktif kelime
+- Konuşma: 1-2 dakika
+- Yazma: 50-80 kelime
+- Dinleme: WPM 100-120
 
-### 7️⃣ **İleri Düzey Dilbilgisi ve Pratik Uygulamalar**
-İleri seviye dilbilgisi kuralları ve pratik uygulamalar.
+### 🟢 A2 Seviyesi (Temel)
+Günlük durumlar ve kişisel konularda basit iletişim.
 
-- **Present Perfect Tense**: Deneyimler ve Sonuçlar
-- **Past Continuous Tense**: Geçmişte Devam Eden Eylemler
-- **Passive Voice**: Edilgen Çatı
-- **Conditionals**: If Clauses (Type 1 & 2)
-- **Relative Clauses**: Tanımlayıcı ve Tanımlayıcı Olmayan Cümleler
-- **İleri Düzeyde Konuşma ve Yazma Alıştırmaları** (Tartışma, Sunum, Rapor Yazma)
+**Konular**:
+1. Past Simple (Düzenli ve Düzensiz Fiiller)
+2. Sorular ve Olumsuz Cümleler
+3. Karşılaştırmalar (Comparatives & Superlatives)
+4. Present Continuous vs Simple Present
+5. Gelecek Zaman (going to vs will)
+6. Edatlar ve Temel Phrasal Verbs
+7. Fonksiyonel Diyaloglar (Telefon, Randevular)
 
-## 🚀 Nasıl Başlanır?
+**Hedef Metrikler**:
+- Kelime: 800-1000 aktif kelime
+- Konuşma: 3-5 dakika
+- Yazma: 80-120 kelime
+- Dinleme: WPM 120-140
 
-1. **Sıralı İlerleme**: Bölümleri sırasıyla takip edin
-2. **Pratik Yapın**: Her konudan sonra örnekleri pratik edin
-3. **Tekrar Edin**: Öğrendiğiniz konuları düzenli olarak gözden geçirin
-4. **Uygulayın**: Günlük hayatta öğrendiklerinizi kullanmaya çalışın
+### 🔵 B1 Seviyesi (Orta)
+Tanıdık konularda akıcı iletişim ve temel yazma becerileri.
 
-## 📚 Öğrenme Yöntemleri
+**Konular**:
+1. Present Perfect
+2. Past Continuous
+3. Koşul Cümleleri (Type 1 & 2)
+4. Relative Clauses
+5. Paragraf ve Rapor Yazma
 
-- **Teorik Bilgi**: Her konu detaylı açıklamalarla desteklenmiştir
-- **Örnekler**: Bol miktarda örnek cümle ve kullanım durumu
-- **Pratik**: Her konuda uygulama örnekleri bulunmaktadır
-- **Aşamalı Öğrenme**: Basit seviyeden karmaşık yapılara doğru ilerleme
+**Hedef Metrikler**:
+- Kelime: 1500-2000 aktif kelime
+- Konuşma: 5-10 dakika
+- Yazma: 150-200 kelime
 
-## 📊 İlerleme Durumu
+### 🟣 B2 Seviyesi (Orta-İleri)
+Karmaşık metinler ve akıcı spontan konuşma.
 
-| Bölüm | Durum | İlerleme |
+**Konular**:
+1. İleri Kelime Hazinesi (Akademik)
+2. Bağlaçlar ve Tutarlılık
+3. Dinleme ve Not Alma
+4. Tartışma ve Argümantasyon
+5. Essay ve Özet Yazma
+
+**Hedef Metrikler**:
+- Kelime: 2500-3000 aktif kelime
+- Konuşma: 10+ dakika
+- Yazma: 250+ kelime
+
+## 📁 Repository Yapısı
+
+```
+├── levels/                    # Ana içerik (CEFR seviyelerine göre)
+│   ├── A1/                   # Başlangıç seviyesi
+│   ├── A2/                   # Temel seviye
+│   ├── B1/                   # Orta seviye
+│   └── B2/                   # Orta-İleri seviye
+├── materials/                # Ek kaynaklar
+│   ├── oxford-links.md       # Oxford kaynaklarına linkler
+│   ├── podcast-transcripts/  # Podcast transkriptleri
+│   └── wordlists/           # Kelime listeleri
+├── tracking/                 # İlerleme takibi
+│   ├── progress.md          # Haftalık metrikler
+│   └── weekly-plans/        # Haftalık planlar
+├── recordings/              # Konuşma kayıtları
+└── summaries/              # Podcast özetleri
+```
+
+## 📊 İlerleme Yol Haritası
+
+| Seviye | Durum | İlerleme | Tahmini Süre |
+|--------|-------|----------|--------------|
+| **A1** | ✅ Devam Ediyor | 60% | 4 hafta |
+| **A2** | 📝 Planlandı | 0% | 8 hafta |
+| **B1** | 📝 Planlandı | 0% | 12 hafta |
+| **B2** | 📝 Planlandı | 0% | 16 hafta |
+
+### Mevcut Durum (Eski Modül Sistemi)
+| Modül | Durum | İlerleme |
 |-------|-------|----------|
-| 1. Temel İngilizce | ✅ Tamamlandı | 100% |
-| 2. Günlük Rutin | ✅ Tamamlandı | 100% |
-| 3. Geçmiş Zaman | ✎ Devam Ediyor | 20% |
-| 4. Gelecek Zaman | 📝 Planlandı | 0% |
-| 5. Karşılaştırma | 📝 Planlandı | 0% |
-| 6. Şimdiki Zaman | 📝 Planlandı | 0% |
-| 7. İleri Düzey | 📝 Planlandı | 0% |
+| 1. Temel İngilizce ve Kendini Tanıtma | ✅ Tamamlandı | 100% |
+| 2. Günlük Rutin ve Zaman Kavramı | ✅ Tamamlandı | 100% |
+| 3. Geçmiş Zaman ve Hikaye Anlatma | ✎ Devam Ediyor | 20% |
 
-## 🎯 Öğrenme Hedefleri
+> **Not**: Mevcut içerik yeni seviye sistemine migrate ediliyor.
 
-Bu program sonunda şunları başarabileceksiniz:
+## 🚀 Hızlı Başlangıç (3 Adımda)
 
-- ✅ İngilizce temel iletişim kurma
-- ✅ Günlük konuşmalara katılma
-- ✅ Basit metinleri okuyup anlama
-- ✅ Kendi deneyimlerinizi paylaşma
-- ✅ Gelecek planlarınızı ifade etme
-- ✅ Karşılaştırma ve değerlendirme yapma
-- ✅ İleri düzey dilbilgisi yapılarını kullanma
+### 1️⃣ Seviyenizi Kontrol Edin
+- 📋 [A1 Kontrol Listesi](levels/A1/assessments/a1-checklist.md) - Hangi konuları biliyorsun?
+- 📋 [A2 Kontrol Listesi](levels/A2/assessments/a2-checklist.md) - A2 için hazır mısın?
 
-## 💡 İpuçları
+### 2️⃣ İlk 4 Haftalık Planını Seç (HAZIR!)
+Hafta planları **tamamen hazır** - sadece tarihleri doldur ve başla:
 
-- **Düzenli Çalışın**: Her gün en az 15-20 dakika ayırın
-- **Sabırlı Olun**: Dil öğrenme bir süreçtir, aceleci olmayın
-- **Pratik Yapın**: Öğrendiklerinizi günlük hayatta kullanmaya çalışın
-- **Hata Yapmaktan Korkmayın**: Hatalar öğrenmenin doğal bir parçasıdır
+| Hafta | Konu | Plan Dosyası | Hedef |
+|-------|------|--------------|-------|
+| **1** | Kendini Tanıtma + To Be | [📘 Week 1](tracking/weekly-plans/week-1.md) | 15 kelime, 60-90sn kayıt |
+| **2** | Günlük Rutin + Present Cont. | [📗 Week 2](tracking/weekly-plans/week-2.md) | 20 kelime, 90sn kayıt |
+| **3** | Past Simple + Hikaye | [📙 Week 3](tracking/weekly-plans/week-3.md) | 20 fiil, 2dk kayıt |
+| **4** | Telefon Diyalogları | [📕 Week 4](tracking/weekly-plans/week-4.md) | 20 kalıp, 2dk diyalog |
+
+> 💡 **Hafta 5+ için**: [Hybrid Template](tracking/weekly-plans/week-template-hybrid.md) kullan
+
+### 3️⃣ İlerlemeni Kaydet
+- 📊 [progress.md](tracking/progress.md) - Haftalık metrikler (kelime, saat, WPM)
+- 🎯 Her hafta sonu değerlendirme yap
+- ✅ Çıktılarını kaydet: `recordings/`, `summaries/`, `writing/`
+
+### 📚 Kaynaklar
+- 🔗 [Oxford Links](materials/oxford-links.md) - Gramer ünitelerine linkler
+- 🎧 [Podcast Transkriptleri](materials/podcast-transcripts/) - Dinleme için
+- 📝 [Kelime Listeleri](materials/wordlists/) - Oxford 3000 bazlı
+
+## 🎯 12 Haftalık A1→A2 Yol Haritası
+
+### Hafta 1-3: A1 Pekiştirme + A2 Başlangıç
+- Simple Present pekiştirme
+- Past Simple'a giriş (düzenli fiiller)
+- **Hedef**: 100+ yeni kelime
+
+### Hafta 4-6: Geçmiş Zaman Master
+- Past Simple (düzensiz fiiller)
+- Questions and negatives
+- Hikaye anlatma başlangıç
+- **Hedef**: 150+ yeni kelime
+
+### Hafta 7-9: Gelecek ve Karşılaştırma
+- Going to vs will
+- Comparatives & superlatives
+- Present continuous
+- **Hedef**: 150+ yeni kelime
+
+### Hafta 10-12: Pratik ve Konsolidasyon
+- Telefon diyalogları
+- Tüm zamanları birlikte kullanma
+- Yazma becerisini geliştirme
+- **Hedef**: 100+ yeni kelime
+
+**Toplam**: 500+ yeni kelime, 800-1000 aktif kelime hazinesi
+
+## 💡 Öğrenme İpuçları
+
+### Konuşma İçin
+- Her gün sesli okuma yapın
+- Podcast'leri taklit edin (shadowing)
+- Kendinizi kaydedin ve dinleyin
+- Kalıp cümleleri ezberleyin
+
+### Dinleme İçin
+- Transkriptsiz dinleyin, sonra transkriptle kontrol edin
+- Her gün en az 20 dakika dinleme yapın
+- Farklı aksanlara alışın
+
+### Okuma İçin
+- WPM (Words Per Minute) hızınızı ölçün
+- Basit haberlerle başlayın (VOA Learning English)
+- Her gün en az 10 dakika okuyun
+
+### Yazma İçin
+- Günlük tutun (5-10 cümle)
+- Öğrendiğiniz kelimeleri cümle içinde kullanın
+- Gramer hatalarınızı düzeltin ve tekrar yazın
+
+### Kelime Öğrenimi İçin
+- Anki/Quizlet kullanın (spaced repetition)
+- Kelimeyi cümle içinde öğrenin
+- IPA (International Phonetic Alphabet) ile telaffuz öğrenin
+- Her gün 10-15 kelime hedefleyin
+
+## 📈 İlerleme Metrikleri
+
+İlerlemeinizi ölçmek için:
+- ✅ Haftalık kelime sayısı
+- ✅ Toplam çalışma saati
+- ✅ Dinleme süresi
+- ✅ Konuşma kayıtları sayısı ve süresi
+- ✅ Yazma pratiği kelime sayısı
+- ✅ WPM (okuma ve dinleme hızı)
+
+## 🔗 Faydalı Kaynaklar
+
+### Online Platformlar
+- [Oxford Online English](https://www.oxfordonlineenglish.com/) - Gramer ve kelime
+- [VOA Learning English](https://learningenglish.voanews.com/) - Basit haberler
+- [BBC Learning English](https://www.bbc.co.uk/learningenglish) - Podcast ve videolar
+
+### Kelime Öğrenimi
+- [Anki](https://apps.ankiweb.net/) - Spaced repetition
+- [Quizlet](https://quizlet.com/) - Flashcards
+- [Oxford 3000 & 5000](https://www.oxfordlearnersdictionaries.com/us/wordlists/oxford3000-5000) - Temel kelimeler
+
+### Podcast Önerileri
+- English Learning for Curious Minds (Level A2-B1)
+- 6 Minute English (BBC)
+- All Ears English
 
 ## 📝 Katkıda Bulunma
 
@@ -134,4 +268,4 @@ Bu projeyi geliştirmek için katkılarınızı bekliyoruz! Önerileriniz, düze
 
 **🌟 İyi Öğrenmeler! Good Luck Learning English!**
 
-*Bu repository sürekli güncellenmekte ve geliştirilmektedir. Yeni içerikler eklenirken mevcut içerikler de iyileştirilmektedir.*
+*Bu repository sürekli güncellenmekte ve geliştirilmektedir. Haftalık planınızı oluşturun ve düzenli çalışarak hedeflerinize ulaşın!*
