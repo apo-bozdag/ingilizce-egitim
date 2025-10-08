@@ -5,17 +5,17 @@
 
 ## Haftalık Metrikler
 
-### Hafta 1 (Tarih: ___ - ___)
+### Hafta 1 (Tarih: 2025-10-08 - ___)
 
-**Durum**: 🔄 Devam Ediyor (1/4 gün tamamlandı)
+**Durum**: 🔄 Devam Ediyor (2/4 gün tamamlandı)
 
 #### Çalışma Saatleri
-- **Toplam Saat**: 1 saat (hedef: 4 saat)
+- **Toplam Saat**: 1.67 saat (~100 dk / hedef: 4 saat)
 - **Gün 1 (Salı - Dinleme + Özet)**: ✅ 60 dk
-- **Gün 2 (Çarşamba - Konuşma)**: ___ dk
+- **Gün 2 (Çarşamba - Yazma + Pratik)**: ✅ 40 dk
 - **Gün 3 (Perşembe - Gramer + Yazma)**: ___ dk
 - **Gün 4 (Cuma - Kelime + Okuma)**: ___ dk
-- **Günlük Tekrar (Anki/Quizlet)**: 10 dk × 1 gün (devam edecek)
+- **Günlük Tekrar (Anki/Quizlet)**: 10-15 dk × 2 gün (devam edecek)
 
 #### Kelime Bilgisi
 - **Yeni Kelime Sayısı**: 10 / 25 kelime (hedef)
