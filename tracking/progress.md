@@ -18,13 +18,13 @@
 - **Günlük Tekrar (Anki/Quizlet)**: 10-15 dk × 2 gün (devam edecek)
 
 #### Kelime Bilgisi
-- **Yeni Kelime Sayısı**: 10 / 25 kelime (hedef)
+- **Yeni Kelime Sayısı**: 16 / 25 kelime (hedef)
   - Gün 1: 10 kelime ✅ (humanoid, sassy, taken aback, mind of its own, splash of colour, expressive, companionship, care home, uninhabited, inquisitive)
-  - Gün 2: ___ kelime
+  - Gün 2: 6 kelime/kalıp ✅ (to play guitar, to listen to music, work on projects, open-source, recently, to learn to speak)
   - Gün 3: ___ kelime
   - Gün 4: 15 kelime (planlandı)
-- **Toplam Kelime Bankası**: 10 kelime
-- **Anki/Quizlet**: ✅ Kuruldu ve kelimeler eklendi
+- **Toplam Kelime Bankası**: 16 kelime/kalıp
+- **Anki/Quizlet**: ✅ Kuruldu, kelimeler eklendi + Gün 2'de 10+ kelime tekrarı yapıldı
 
 #### Dinleme Pratik
 - **Toplam Dinleme Süresi**: 6 dakika
@@ -40,33 +40,54 @@
 - **Toplam Kelime**: ___ kelime
 
 #### Konuşma Pratik
-- **Diyalog Sayısı**: 0 (Gün 2'de yapılacak)
-- **Konuşma Kayıtları**:
-  - Gün 2 (planlandı): Kendini tanıtma (60-90 sn)
-  - Konu: Introduction
+- **Sesli Okuma**: 2 kez ✅ (Gün 2)
+- **Konuşma Kayıtları**: 0 (ses kaydı alınmadı, isteğe bağlı)
+  - Gün 2: Self-introduction metnini sesli okudum ✅
+  - Konu: Introduction (~80 kelime)
 
 #### Yazma Pratik
-- **Yazılan Metin Sayısı**: 1 (özet)
-- **Toplam Kelime**: ~60 kelime (3 cümle özet)
-- **Konular**: Humanoid robot Abi
-- **Gün 3 Hedefi**: 50-70 kelime paragraf
+- **Yazılan Metin Sayısı**: 2 (1 özet + 1 self-introduction)
+- **Toplam Kelime**: ~140 kelime
+  - Gün 1: 3 cümle özet (~60 kelime) ✅
+  - Gün 2: Self-introduction (~80 kelime) ✅
+- **Konular**: Humanoid robot Abi, Kendini tanıtma
+- **Gün 3 Hedefi**: 50-70 kelime paragraf (gramer + to be/simple present)
 
 #### Hatalar ve Düzeltmeler
-- **İlk Dinlemede Karıştırdıklarım**:
+- **Gün 1 - Dinleme**:
   1. "Çocuk kadar yetkinlik" → Aslında "çocuk boyutunda" (size, not ability)
   2. "Dil öğrenme yardımı" → Transkript'te yok, ben ekstrapolasyon yaptım
   3. Grace Brown'u ilk dinlemede kaçırdım
-- **Düzeltmeler ve Öğrendiklerim**:
-  - "Sassy" = cesur, şımarık, cüretkar (yeni kelime!)
-  - "Splash of colour" = renk sıçraması (idiom)
-  - "Mind of its own" = kendi aklı varmış gibi (kalıp)
-  - Transkriptsiz dinlemede %60-70 anlama başardım
+  - **Öğrendiklerim**:
+    - "Sassy" = cesur, şımarık, cüretkar (yeni kelime!)
+    - "Splash of colour" = renk sıçraması (idiom)
+    - "Mind of its own" = kendi aklı varmış gibi (kalıp)
+    - Transkriptsiz dinlemede %60-70 anlama başardım
+
+- **Gün 2 - Yazma ve Gramer** (9 düzeltme yapıldı):
+  1. ❌ `I like play` → ✅ `I like to play` (like + to infinitive)
+  2. ❌ `I like listen` → ✅ `I like to listen to` (listen + to)
+  3. ❌ `make the hobby projects` → ✅ `work on hobby projects` (doğal ifade)
+  4. ❌ `sivas, turkey, izmir` → ✅ `Sivas, Turkey, Izmir` (proper nouns büyük harf)
+  5. ❌ `Sometimes publish` → ✅ `I sometimes publish` (özne gerekli)
+  6. ❌ `opensource` → ✅ `open-source` (tire ile)
+  7. ❌ `Last time create` → ✅ `Recently, I created` (doğru zaman)
+  8. ❌ `learning english speaks` → ✅ `learning to speak English` (doğru yapı)
+  9. ❌ `english` → ✅ `English` (dil adı büyük harf)
+  - **Öğrendiklerim**:
+    - Like fiilinden sonra "to + infinitive" kullanılır
+    - Listen fiili "to" edatı ile kullanılır
+    - Şehir, ülke, dil isimleri büyük harfle başlar
+    - Present Continuous yapısı: am/is/are + verb-ing
 
 #### Notlar
-- ✅ İlk gün başarılı! Podcast eğlenceliydi
+- ✅ Gün 1 başarılı! Podcast eğlenceliydi
+- ✅ Gün 2 tamamlandı! Gramer hatalarımı öğrendim
 - Anki + Quizlet kurulumu tamamlandı
-- Gün 2'de konuşma kaydı yapacağım
+- Duolingo + WorldUp uygulamaları günlük 10'ar dakika kullanılıyor
+- Ses kaydı almaya gerek duymadım, sesli okuma yeterli geldi
 - Hedef: Haftayı 4/4 gün tamamlamak
+- 📝 Ders İçeriği: "Can - Could" modal fiilleri dersi oluşturuldu (3. Modül)
 
 ---
 
