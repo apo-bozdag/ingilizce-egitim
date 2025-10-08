@@ -47,43 +47,56 @@
 
 ---
 
-## 📅 Gün 2 (Çarşamba): Konuşma Pratiği - Kendini Tanıtma (60 dk)
+## 📅 Gün 2 (Çarşamba): Yazma + Konuşma Pratiği - Kendini Tanıtma (60 dk)
 
-### 20 dk: Hazırlık
-- **Konu**: Kendini tanıtma (Introduction)
-- **Kalıp Cümleler** (6 cümle hazırla):
-  1. My name is _____. (İsmim _____)
-  2. I am _____ years old. (_____ yaşındayım)
-  3. I am from _____. (_____ lıyım)
-  4. I am a _____. (Ben bir _____ yım - meslek)
-  5. I live in _____. (_____ de yaşıyorum)
-  6. I like _____. (_____ severim)
+### 15 dk: Yazma Pratiği
+- **Konu**: Kendini tanıtma (Self-Introduction)
+- **Hedef**: ~80 kelime
+- **Dosya**: `summaries/week1-day2.md` ✅ TAMAMLANDI
 
-### 25 dk: Konuşma Kaydı
-- **Hedef Süre**: 60-90 saniye
-- **Cümle Sayısı**: 6 cümle
-- **Kayıt Dosyası**: `recordings/week1-day2-introduction.mp3`
-- **Tekrar Sayısı**: 3 deneme (en iyisini kaydet)
-
-**Script (taslak)**:
+**Yazılan Metin (Orijinal)**:
 ```
-Hello! My name is _____. I am _____ years old.
-I am from _____ and I live in _____.
-I am a _____ (student/teacher/engineer/etc.).
-In my free time, I like _____.
-Nice to meet you!
+My name is Abdullah, I am 27 years old and I am from sivas, turkey.
+I am a software developer and I live in izmir. I like play guitar,
+I like listen rock music, I like play computer games and make the hobby projects.
+Sometimes publish opensource project now here is my github account.
+Last time create the english repository and i learning english speaks.
 ```
 
-### 15 dk: Dinle ve Değerlendir
-- [ ] Kaydı dinle
-- [ ] Telaffuz hatalarını not al (örn: "th" sesi, vurgu)
-- [ ] Akıcılığı değerlendir (duraksama noktaları)
-- [ ] Kelime tekrarı (Anki)
+### 20 dk: Düzeltme ve Gramer Çalışması
+- [x] Hataları tespit et ✓
+- [x] Düzeltilmiş versiyonu yaz ✓
+- [x] 9 gramer kuralı öğrenildi ✓
+
+**Öğrenilen Gramer Kuralları**:
+1. **like + to infinitive** (I like **to** play guitar)
+2. **listen + to** (I listen **to** music)
+3. **Proper Nouns** büyük harfle (Sivas, Turkey, Izmir, English)
+4. **Present Continuous** (I **am learning** English)
+5. work **on** projects (not "make the projects")
+6. **open-source** (tire ile)
+7. Cümle başında **özne** gerekli (I sometimes publish)
+8. **Recently** kullanımı (Last time create ❌ → Recently, I created ✅)
+
+### 10 dk: Sesli Okuma
+- [x] Yazılan metin 2 kez sesli okundu ✓
+- [x] Çalışma materyalleri sesli okundu ✓
+- [ ] Ses kaydı alınmadı (isteğe bağlı)
+
+### 15 dk: Uygulama Pratikleri
+- [x] Duolingo: 10 dakika ✓
+- [x] WorldUp: 10 dakika ✓
+- [x] Flashcard Review: 10+ kelime (önceki günden) ✓
 
 ### ✅ Çıktı
-- [ ] 60-90 sn konuşma kaydı tamamlandı
-- [ ] 6 cümle konuşuldu
-- [ ] Hatalar not alındı
+- [x] ~80 kelimelik self-introduction yazıldı ✓
+- [x] 9 gramer düzeltmesi yapıldı ✓
+- [x] 2 kez sesli okuma tamamlandı ✓
+- [x] 20 dakika uygulama pratiği (Duolingo + WorldUp) ✓
+- [x] 10+ kelime flashcard tekrarı ✓
+- [ ] Ses kaydı alınmadı (gelecekte denenebilir)
+
+**🎯 Gün 2 TAMAMLANDI!**
 
 ---
 
