@@ -286,60 +286,60 @@ Simple Present Tense (Geniş Zaman), **düzenli tekrarlanan eylemler**, **alış
 ## 💬 **7. Pratik Diyaloglar**
 
 ### **Diyalog 1: Günlük Rutin**
-**A:** What time do you wake up every day?
-**B:** I usually wake up at 7 AM. What about you?
-**A:** I wake up at 6:30. Do you have breakfast at home?
-**B:** Yes, I do. I always have breakfast at home. Do you?
-**A:** No, I don't. I usually eat breakfast at work.
-**B:** What time do you start work?
-**A:** I start at 9 AM. And you?
-**B:** I start at 8:30. I go to work by bus.
+* **A:** What time do you wake up every day?
+* **B:** I usually wake up at 7 AM. What about you?
+* **A:** I wake up at 6:30. Do you have breakfast at home?
+* **B:** Yes, I do. I always have breakfast at home. Do you?
+* **A:** No, I don't. I usually eat breakfast at work.
+* **B:** What time do you start work?
+* **A:** I start at 9 AM. And you?
+* **B:** I start at 8:30. I go to work by bus.
 
 **Türkçe:**
-**A:** Her gün saat kaçta uyanırsın?
-**B:** Genellikle sabah 7'de uyanırım. Ya sen?
-**A:** Ben 6:30'da uyanırım. Evde kahvaltı yapar mısın?
-**B:** Evet, yaparım. Her zaman evde kahvaltı yaparım. Sen?
-**A:** Hayır, yapmam. Genellikle işte kahvaltı ederim.
-**B:** Saat kaçta işe başlarsın?
-**A:** 9'da başlarım. Ya sen?
-**B:** Ben 8:30'da başlarım. İşe otobüsle giderim.
+* **A:** Her gün saat kaçta uyanırsın?
+* **B:** Genellikle sabah 7'de uyanırım. Ya sen?
+* **A:** Ben 6:30'da uyanırım. Evde kahvaltı yapar mısın?
+* **B:** Evet, yaparım. Her zaman evde kahvaltı yaparım. Sen?
+* **A:** Hayır, yapmam. Genellikle işte kahvaltı ederim.
+* **B:** Saat kaçta işe başlarsın?
+* **A:** 9'da başlarım. Ya sen?
+* **B:** Ben 8:30'da başlarım. İşe otobüsle giderim.
 
 ### **Diyalog 2: Hafta Sonu**
-**A:** What do you usually do on weekends?
-**B:** I usually relax at home. Sometimes I go out with friends. What about you?
-**A:** I often play football on Saturdays. On Sundays, I visit my family.
-**B:** That sounds nice! Do you work on weekends?
-**A:** No, I don't. I never work on weekends. Do you?
-**B:** Sometimes I work on Saturdays, but I always rest on Sundays.
+* **A:** What do you usually do on weekends?
+* **B:** I usually relax at home. Sometimes I go out with friends. What about you?
+* **A:** I often play football on Saturdays. On Sundays, I visit my family.
+* **B:** That sounds nice! Do you work on weekends?
+* **A:** No, I don't. I never work on weekends. Do you?
+* **B:** Sometimes I work on Saturdays, but I always rest on Sundays.
 
 **Türkçe:**
-**A:** Hafta sonları genellikle ne yaparsın?
-**B:** Genellikle evde dinlenirim. Bazen arkadaşlarımla dışarı çıkarım. Ya sen?
-**A:** Cumartesi günleri sık sık futbol oynarım. Pazar günleri ailemi ziyaret ederim.
-**B:** Kulağa güzel geliyor! Hafta sonları çalışır mısın?
-**A:** Hayır, çalışmam. Hafta sonları asla çalışmam. Sen?
-**B:** Bazen cumartesi çalışırım ama pazar günleri her zaman dinlenirim.
+* **A:** Hafta sonları genellikle ne yaparsın?
+* **B:** Genellikle evde dinlenirim. Bazen arkadaşlarımla dışarı çıkarım. Ya sen?
+* **A:** Cumartesi günleri sık sık futbol oynarım. Pazar günleri ailemi ziyaret ederim.
+* **B:** Kulağa güzel geliyor! Hafta sonları çalışır mısın?
+* **A:** Hayır, çalışmam. Hafta sonları asla çalışmam. Sen?
+* **B:** Bazen cumartesi çalışırım ama pazar günleri her zaman dinlenirim.
 
 ### **Diyalog 3: İş Arkadaşlarıyla**
-**A:** Does your boss work on Fridays?
-**B:** Yes, he does. He works every day except Sunday.
-**A:** That's a lot! What time does he arrive?
-**B:** He usually arrives at 7 AM. He's always the first person in the office.
-**A:** Wow! And what time does he leave?
-**B:** He leaves at 6 PM. He works long hours.
-**A:** Does he take lunch breaks?
-**B:** Yes, he does. He always eats lunch at 12:30.
+* **A:** Does your boss work on Fridays?
+* **B:** Yes, he does. He works every day except Sunday.
+* **A:** That's a lot! What time does he arrive?
+* **B:** He usually arrives at 7 AM. He's always the first person in the office.
+* **A:** Wow! And what time does he leave?
+* **B:** He leaves at 6 PM. He works long hours.
+* **A:** Does he take lunch breaks?
+* **B:** Yes, he does. He always eats lunch at 12:30.
 
 **Türkçe:**
-**A:** Patronun cuma günleri çalışır mı?
-**B:** Evet, çalışır. Pazar hariç her gün çalışır.
-**A:** Bu çok fazla! Saat kaçta gelir?
-**B:** Genellikle sabah 7'de gelir. Her zaman ofiste ilk gelen kişi o.
-**A:** Vay be! Saat kaçta çıkar?
-**B:** Akşam 6'da çıkar. Uzun saatler çalışır.
-**A:** Öğle molası verir mi?
-**B:** Evet, verir. Her zaman 12:30'da öğle yemeği yer.
+* **A:** Patronun cuma günleri çalışır mı?
+* **B:** Evet, çalışır. Pazar hariç her gün çalışır.
+* **A:** Bu çok fazla! Saat kaçta gelir?
+* **B:** Genellikle sabah 7'de gelir. Her zaman ofiste ilk gelen kişi o.
+* **A:** Vay be! Saat kaçta çıkar?
+* **B:** Akşam 6'da çıkar. Uzun saatler çalışır.
+* **A:** Öğle molası verir mi?
+* **B:** Evet, verir. Her zaman 12:30'da öğle yemeği yer.
 
 ---
 
