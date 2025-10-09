@@ -100,42 +100,82 @@ Last time create the english repository and i learning english speaks.
 
 ---
 
-## 📅 Gün 3 (Perşembe): Gramer + Yazma (60 dk)
+## 📅 Gün 3 (Perşembe): Yazma + Uygulamalar (60 dk)
 
-### 30 dk: Gramer Çalışması
-- **Konu 1**: To Be (am, is, are)
-- **Konu 2**: Simple Present Tense
-- **Kaynak**: `levels/A1/03-to-be-am-is-are/` ve `levels/A1/06-daily-routines-simple-present/`
-- **Hedef**: 5 cümle yaz (karışık - to be ve simple present)
+### 30 dk: Yazma Pratiği - Günlük Rutinler ve Hobiler
+- **Konu**: Self-introduction (Extended) - Günlük rutinler ve hobiler
+- **Hedef**: ~120 kelime
+- **Dosya**: `summaries/week1-day3.md` ✅ TAMAMLANDI
 
-**Cümleler**:
-1. I _____ (to be) _____ (sıfat). (örn: I am happy / I am a student)
-2. She _____ (to be) _____ (yer/meslek). (örn: She is a doctor / She is from Turkey)
-3. I _____ (fiil) _____ (nesne). (örn: I study English / I drink coffee)
-4. He _____ (fiil+s) _____ (nesne). (örn: He works in an office / He plays football)
-5. We _____ (to be) _____ / We _____ (fiil) _____. (karışık örnek)
-
-### 20 dk: Yazma Pratiği
-- **Konu**: Kendim hakkında 5 cümle
-- **Hedef**: 50-70 kelime
-- **Dosya**: `writing/week1-day3-about-me.md`
-
-**Şablon**:
+**Yazılan Metin (Orijinal - Hatalı Versiyon)**:
 ```
-I am _____. I live in _____.
-I am a _____ (student/worker/etc.).
-Every day, I _____ (routine).
-I like _____ because _____.
-My favorite _____ is _____.
+Hi, I am a software developer my name is Abdullah. I am Turkish and I live in
+Izmir. I write in my home this content because learning for english.
+
+Every day, I wake up up at 9.30 AM and I start work at 10.00 AM. I often have
+breakfast at 11 AM. I go to do gym when if after work and my favorite supplement
+is protein beacuse it helps me make muscle.
+
+If i were to talk about my hobbies;
+
+I often play guitar, i like listen to music, i like to play computer games
+because it helps me clear my head. We rarely play football on saturdays with
+friends.
 ```
+
+**Düzeltilmiş Versiyon**:
+```
+Hi, I am a software developer. My name is Abdullah. I am Turkish and I live in
+Izmir. I am writing this content at home to practice English.
+
+Every day, I wake up at 9:30 AM and I start work at 10:00 AM. I often have
+breakfast at 11 AM. I go to the gym after work, and my favorite supplement is
+protein because it helps me build muscle.
+
+If I were to talk about my hobbies:
+
+I often play guitar. I like to listen to music and I like to play computer games
+because it helps me clear my head. We rarely play football on Saturdays with
+friends.
+```
+
+### 20 dk: Uygulama Pratikleri
+- [x] Duolingo: 10 dakika ✓
+- [x] English Words: 10 dakika ✓
+- [x] Kelime Çalışması: 5 yeni kelime öğrenildi ✓
+  - post office (postane)
+  - murderer (katil)
+  - introduce (tanıtmak)
+  - nervous (gergin, sinirli)
+  - beginning (başlangıç)
 
 ### 10 dk: Günlük Tekrar
-- Anki/Quizlet + yazılan cümleleri sesli oku
+- [x] Anki/Quizlet tekrarı yapıldı ✓
+- [x] Yazılan metni sesli oku (isteğe bağlı)
 
 ### ✅ Çıktı
-- [ ] 5 gramer cümlesi yazıldı (to be + simple present karışık)
-- [ ] 50-70 kelimelik kısa metin tamamlandı
-- [ ] Gramer kuralları uygulandı
+- [x] ~120 kelimelik self-introduction yazıldı ✓
+- [x] 8 gramer hatası tespit edildi ve düzeltildi ✓
+- [x] 5 yeni kelime öğrenildi (Duolingo + English Words) ✓
+- [x] 20 dakika uygulama pratiği tamamlandı ✓
+
+**🎯 Gün 3 TAMAMLANDI!**
+
+### 📝 Hatalar ve Öğrenilenler (8 düzeltme)
+1. ❌ `wake up up` → ✅ `wake up` (tekrarlı "up")
+2. ❌ `learning for english` → ✅ `to practice English` (doğru kalıp)
+3. ❌ `go to do gym` → ✅ `go to the gym` ("the gym" kullanılır)
+4. ❌ `when if after work` → ✅ `after work` (gereksiz "when if")
+5. ❌ `make muscle` → ✅ `build muscle` (doğal ifade)
+6. ❌ `i like listen` → ✅ `I like to listen` (like + to + infinitive)
+7. ❌ `beacuse` → ✅ `because` (yazım hatası)
+8. ❌ `saturdays` → ✅ `Saturdays` (gün isimleri büyük harf)
+
+**Öğrendiklerim**:
+- "practice English" = İngilizce pratik yapmak
+- "build muscle" doğal ifade (make muscle değil!)
+- Gün isimleri her zaman büyük harfle başlar (Saturdays)
+- "to the gym" kullanımı ("do gym" yanlış)
 
 ---
 

@@ -7,24 +7,24 @@
 
 ### Hafta 1 (Tarih: 2025-10-08 - ___)
 
-**Durum**: 🔄 Devam Ediyor (2/4 gün tamamlandı)
+**Durum**: 🔄 Devam Ediyor (3/4 gün tamamlandı)
 
 #### Çalışma Saatleri
-- **Toplam Saat**: 1.67 saat (~100 dk / hedef: 4 saat)
+- **Toplam Saat**: 2.67 saat (~160 dk / hedef: 4 saat)
 - **Gün 1 (Salı - Dinleme + Özet)**: ✅ 60 dk
 - **Gün 2 (Çarşamba - Yazma + Pratik)**: ✅ 40 dk
-- **Gün 3 (Perşembe - Gramer + Yazma)**: ___ dk
+- **Gün 3 (Perşembe - Yazma + Uygulamalar)**: ✅ 60 dk
 - **Gün 4 (Cuma - Kelime + Okuma)**: ___ dk
-- **Günlük Tekrar (Anki/Quizlet)**: 10-15 dk × 2 gün (devam edecek)
+- **Günlük Tekrar (Anki/Quizlet)**: 10-15 dk × 3 gün (devam edecek)
 
 #### Kelime Bilgisi
-- **Yeni Kelime Sayısı**: 16 / 25 kelime (hedef)
+- **Yeni Kelime Sayısı**: 21 / 25 kelime (hedef)
   - Gün 1: 10 kelime ✅ (humanoid, sassy, taken aback, mind of its own, splash of colour, expressive, companionship, care home, uninhabited, inquisitive)
   - Gün 2: 6 kelime/kalıp ✅ (to play guitar, to listen to music, work on projects, open-source, recently, to learn to speak)
-  - Gün 3: ___ kelime
+  - Gün 3: 5 kelime ✅ (post office, murderer, introduce, nervous, beginning)
   - Gün 4: 15 kelime (planlandı)
-- **Toplam Kelime Bankası**: 16 kelime/kalıp
-- **Anki/Quizlet**: ✅ Kuruldu, kelimeler eklendi + Gün 2'de 10+ kelime tekrarı yapıldı
+- **Toplam Kelime Bankası**: 21 kelime/kalıp
+- **Anki/Quizlet**: ✅ Kuruldu, kelimeler eklendi + Gün 2-3'te günlük 10+ kelime tekrarı yapıldı
 
 #### Dinleme Pratik
 - **Toplam Dinleme Süresi**: 6 dakika
@@ -46,12 +46,12 @@
   - Konu: Introduction (~80 kelime)
 
 #### Yazma Pratik
-- **Yazılan Metin Sayısı**: 2 (1 özet + 1 self-introduction)
-- **Toplam Kelime**: ~140 kelime
+- **Yazılan Metin Sayısı**: 3 (1 özet + 2 self-introduction)
+- **Toplam Kelime**: ~260 kelime
   - Gün 1: 3 cümle özet (~60 kelime) ✅
   - Gün 2: Self-introduction (~80 kelime) ✅
-- **Konular**: Humanoid robot Abi, Kendini tanıtma
-- **Gün 3 Hedefi**: 50-70 kelime paragraf (gramer + to be/simple present)
+  - Gün 3: Self-introduction - Extended (~120 kelime) ✅
+- **Konular**: Humanoid robot Abi, Kendini tanıtma, Günlük rutinler, Hobiler
 
 #### Hatalar ve Düzeltmeler
 - **Gün 1 - Dinleme**:
@@ -80,13 +80,29 @@
     - Şehir, ülke, dil isimleri büyük harfle başlar
     - Present Continuous yapısı: am/is/are + verb-ing
 
+- **Gün 3 - Yazma (Günlük Rutinler + Hobiler)** (8 düzeltme yapıldı):
+  1. ❌ `wake up up` → ✅ `wake up` (tekrarlı "up")
+  2. ❌ `learning for english` → ✅ `to practice English` (doğru kalıp)
+  3. ❌ `go to do gym` → ✅ `go to the gym` ("the gym" kullanılır)
+  4. ❌ `when if after work` → ✅ `after work` (gereksiz "when if")
+  5. ❌ `make muscle` → ✅ `build muscle` (doğal ifade)
+  6. ❌ `i like listen` → ✅ `I like to listen` (like + to + infinitive)
+  7. ❌ `beacuse` → ✅ `because` (yazım hatası)
+  8. ❌ `saturdays` → ✅ `Saturdays` (gün isimleri büyük harf)
+  - **Öğrendiklerim**:
+    - "practice English" = İngilizce pratik yapmak
+    - "build muscle" doğal ifade (make muscle değil!)
+    - Gün isimleri her zaman büyük harfle başlar (Saturdays)
+    - "to the gym" kullanımı ("do gym" yanlış)
+
 #### Notlar
 - ✅ Gün 1 başarılı! Podcast eğlenceliydi
 - ✅ Gün 2 tamamlandı! Gramer hatalarımı öğrendim
+- ✅ Gün 3 tamamlandı! Günlük rutinler ve hobiler hakkında uzun bir yazı yazdım
 - Anki + Quizlet kurulumu tamamlandı
-- Duolingo + WorldUp uygulamaları günlük 10'ar dakika kullanılıyor
+- Duolingo + English Words uygulamaları günlük 10'ar dakika kullanılıyor
 - Ses kaydı almaya gerek duymadım, sesli okuma yeterli geldi
-- Hedef: Haftayı 4/4 gün tamamlamak
+- Hedef: Haftayı 4/4 gün tamamlamak (1 gün kaldı!)
 - 📝 Ders İçeriği: "Can - Could" modal fiilleri dersi oluşturuldu (3. Modül)
 
 ---
