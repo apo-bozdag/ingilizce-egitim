@@ -285,62 +285,62 @@
 ## 💬 **7. Pratik Diyaloglar**
 
 ### **Diyalog 1: Tanışma**
-**A:** Hi! I'm John. What's your name?
-**B:** Hi John! I'm Maria. Nice to meet you.
-**A:** Nice to meet you too, Maria. Where are you from?
-**B:** I'm from Spain. And you?
-**A:** I'm from the USA. Are you a student?
-**B:** Yes, I am. I'm a language student. What about you?
-**A:** I'm a teacher. I teach English.
+* **A:** Hi! I'm John. What's your name?
+* **B:** Hi John! I'm Maria. Nice to meet you.
+* **A:** Nice to meet you too, Maria. Where are you from?
+* **B:** I'm from Spain. And you?
+* **A:** I'm from the USA. Are you a student?
+* **B:** Yes, I am. I'm a language student. What about you?
+* **A:** I'm a teacher. I teach English.
 
 **Türkçe:**
-**A:** Merhaba! Ben John. Senin adın ne?
-**B:** Merhaba John! Ben Maria. Tanıştığımıza memnun oldum.
-**A:** Ben de memnun oldum Maria. Nerelisin?
-**B:** İspanyalıyım. Ya sen?
-**A:** Ben Amerikalıyım. Öğrenci misin?
-**B:** Evet, öğrenciyim. Dil öğrencisiyim. Ya sen?
-**A:** Ben öğretmenim. İngilizce öğretiyorum.
+* **A:** Merhaba! Ben John. Senin adın ne?
+* **B:** Merhaba John! Ben Maria. Tanıştığımıza memnun oldum.
+* **A:** Ben de memnun oldum Maria. Nerelisin?
+* **B:** İspanyalıyım. Ya sen?
+* **A:** Ben Amerikalıyım. Öğrenci misin?
+* **B:** Evet, öğrenciyim. Dil öğrencisiyim. Ya sen?
+* **A:** Ben öğretmenim. İngilizce öğretiyorum.
 
 ### **Diyalog 2: Meslek ve Yaş**
-**A:** What's your job?
-**B:** I'm a software developer. What about you?
-**A:** I'm a doctor. How old are you?
-**B:** I'm 27 years old. And you?
-**A:** I'm 32. Are you from here?
-**B:** No, I'm not. I'm from Sivas, but I live in Izmir now.
-**A:** Oh, that's nice! Is Izmir a big city?
-**B:** Yes, it is. It's very beautiful.
+* **A:** What's your job?
+* **B:** I'm a software developer. What about you?
+* **A:** I'm a doctor. How old are you?
+* **B:** I'm 27 years old. And you?
+* **A:** I'm 32. Are you from here?
+* **B:** No, I'm not. I'm from Sivas, but I live in Izmir now.
+* **A:** Oh, that's nice! Is Izmir a big city?
+* **B:** Yes, it is. It's very beautiful.
 
 **Türkçe:**
-**A:** Mesleğin ne?
-**B:** Ben yazılım geliştiriciyim. Ya sen?
-**A:** Ben doktorum. Kaç yaşındasın?
-**B:** 27 yaşındayım. Ya sen?
-**A:** Ben 32'yim. Buralı mısın?
-**B:** Hayır, değilim. Sivaslıyım ama şimdi İzmir'de yaşıyorum.
-**A:** Oh, ne güzel! İzmir büyük bir şehir mi?
-**B:** Evet, öyle. Çok güzel.
+* **A:** Mesleğin ne?
+* **B:** Ben yazılım geliştiriciyim. Ya sen?
+* **A:** Ben doktorum. Kaç yaşındasın?
+* **B:** 27 yaşındayım. Ya sen?
+* **A:** Ben 32'yim. Buralı mısın?
+* **B:** Hayır, değilim. Sivaslıyım ama şimdi İzmir'de yaşıyorum.
+* **A:** Oh, ne güzel! İzmir büyük bir şehir mi?
+* **B:** Evet, öyle. Çok güzel.
 
 ### **Diyalog 3: Durum ve Duygular**
-**A:** How are you today?
-**B:** I'm fine, thank you. And you?
-**A:** I'm good, but I'm a bit tired.
-**B:** Are you busy at work?
-**A:** Yes, I am. Work is very busy this week.
-**B:** I understand. I'm busy too.
-**A:** Are you ready for the weekend?
-**B:** Yes, I am! I'm very excited!
+* **A:** How are you today?
+* **B:** I'm fine, thank you. And you?
+* **A:** I'm good, but I'm a bit tired.
+* **B:** Are you busy at work?
+* **A:** Yes, I am. Work is very busy this week.
+* **B:** I understand. I'm busy too.
+* **A:** Are you ready for the weekend?
+* **B:** Yes, I am! I'm very excited!
 
 **Türkçe:**
-**A:** Bugün nasılsın?
-**B:** İyiyim, teşekkürler. Sen nasılsın?
-**A:** Ben iyiyim ama biraz yorgunum.
-**B:** İşte meşgul müsün?
-**A:** Evet, meşgulüm. Bu hafta iş çok yoğun.
-**B:** Anlıyorum. Ben de meşgulüm.
-**A:** Hafta sonuna hazır mısın?
-**B:** Evet, hazırım! Çok heyecanlıyım!
+* **A:** Bugün nasılsın?
+* **B:** İyiyim, teşekkürler. Sen nasılsın?
+* **A:** Ben iyiyim ama biraz yorgunum.
+* **B:** İşte meşgul müsün?
+* **A:** Evet, meşgulüm. Bu hafta iş çok yoğun.
+* **B:** Anlıyorum. Ben de meşgulüm.
+* **A:** Hafta sonuna hazır mısın?
+* **B:** Evet, hazırım! Çok heyecanlıyım!
 
 ---
 
