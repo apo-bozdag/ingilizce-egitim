@@ -179,86 +179,109 @@ friends.
 
 ---
 
-## 📅 Gün 4 (Cuma): Kelime + Okuma (60 dk)
+## 📅 Gün 4 (Cuma): Yazma (İş Yerinde) + Okuma (60 dk)
 
-### 30 dk: Kelime Çalışması
-- **Hedef**: 15 yeni kelime
-- **Kategori**: People, Routines, Time
+### 20 dk: Yazma Pratiği - İş Yerinde Teknik İletişim
+- **Konu**: İş yerinde İngilizce yazma (commit mesajları, talimatlar)
+- **Hedef**: 14 cümle (teknik iletişim)
+- **Dosya**: `summaries/week1-day4.md` ✅ TAMAMLANDI
 
-| İngilizce | Türkçe | IPA | Örnek Cümle |
-|-----------|--------|-----|-------------|
-| person    | kişi   | /ˈpɜːrsn/ | There is a person at the door. |
-| friend    | arkadaş | /frend/ | She is my friend. |
-| teacher   | öğretmen | /ˈtiːtʃər/ | My teacher is very kind. |
-| morning   | sabah  | /ˈmɔːrnɪŋ/ | I wake up in the morning. |
-| afternoon | öğleden sonra | /ˌæftərˈnuːn/ | I study in the afternoon. |
-| evening   | akşam  | /ˈiːvnɪŋ/ | We eat dinner in the evening. |
-| breakfast | kahvaltı | /ˈbrekfəst/ | I have breakfast at 7 AM. |
-| lunch     | öğle yemeği | /lʌntʃ/ | We eat lunch at noon. |
-| dinner    | akşam yemeği | /ˈdɪnər/ | Dinner is at 7 PM. |
-| work      | iş/çalışmak | /wɜːrk/ | I work from 9 to 5. |
-| study     | ders çalışmak | /ˈstʌdi/ | I study English every day. |
-| sleep     | uyumak | /sliːp/ | I sleep 8 hours. |
-| wake up   | uyanmak | /weɪk ʌp/ | I wake up at 6 AM. |
-| time      | zaman  | /taɪm/ | What time is it? |
-| hour      | saat   | /aʊər/ | One hour has 60 minutes. |
+**Önemli Hatalar**:
+- Artikel kullanımı: "undo changes" → "undo the changes"
+- Edat kullanımı: "usage area custom modal" → "usage area of the custom modal"
+- Özne eksikliği: "yes is running" → "Yes, it's running"
 
-- **Cümle Yazma**: Her kelimeyle 1 cümle yaz (15 cümle)
-
-### 20 dk: Okuma Pratiği
-- **Kaynak**: VOA Learning English - "A Day in My Life"
-- **Link**: https://learningenglish.voanews.com/
-- **Hedef Kelime**: ~100-150 kelime
+### 25 dk: Okuma Pratiği
+- **Kaynak**: VOA Learning English - "The Interview"
+- **Link**: https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-2/3960471.html
+- **Kelime Sayısı**: ~400 kelime
 - **Strateji**:
-  - [ ] Hızlı okuma (zamanla)
-  - [ ] Bilinmeyen kelimeleri işaretle
-  - [ ] İkinci okuma (anlama odaklı)
+  - [x] Diyaloğu oku ✓
+  - [x] Hikayeyi anla (~80% başarılı) ✓
+  - [x] Phrasal verbs tespit et (8 adet) ✓
 
-### 10 dk: WPM Hesaplama + Tekrar
-- **Kelime Sayısı**: ___ kelime
-- **Süre**: ___ dakika
-- **WPM**: ___ (kelime ÷ dakika)
-- Yeni kelimeleri Anki'ye ekle
+**Öğrenilen Phrasal Verbs**:
+- give out, take on, go back, team up, find out, tear up, throw away, come in
+
+### 15 dk: Kelime ve Phrasal Verb Çalışması
+- [x] 5 yeni kelime öğrenildi ✓
+  - people person (insan odaklı kişi)
+  - grumpy (huysuz, asık suratlı)
+  - assignment (görev)
+  - cheerful (neşeli, şen)
+  - cabin (kulübe, kabin)
+- [x] 8 phrasal verb öğrenildi ✓
+- [x] Yeni kelimeleri Anki'ye ekle ✓
 
 ### ✅ Çıktı
-- [ ] 15 yeni kelime öğrenildi
-- [ ] 15 cümle yazıldı
-- [ ] ~100-150 kelimelik metin okundu
-- [ ] WPM hesaplandı: ___
+- [x] 14 teknik cümle yazıldı ✓
+- [x] 34 gramer düzeltmesi yapıldı ✓
+- [x] ~400 kelimelik metin okundu ✓
+- [x] 13 yeni kelime/yapı öğrenildi ✓
+- [x] Anlama seviyesi: ~80% ✓
+
+**🎯 Gün 4 TAMAMLANDI!**
+
+### 📝 Hatalar ve Öğrenilenler (34 düzeltme)
+**En Yaygın Hatalar**:
+1. **Artikel** (10 hata): Belirli şeylerden bahsederken "the", ilk kez bahsediliyorsa "a/an"
+2. **Edat** (8 hata): "of", "to", "with", "from" kullanımı
+3. **Özne** (6 hata): "it is", "it's" gibi özneler gerekli
+4. **Zaman** (4 hata): "hasn't been changed" (is not changed değil)
+5. **Büyük harf** (6 hata): "Please", "POI", "Esc-to-close"
+
+**Öğrendiklerim**:
+- Teknik iletişimde artikel ve edat kullanımı çok önemli
+- Present Perfect Passive: "hasn't been changed"
+- Phrasal verbs: ayrılabilir (separable) ve ayrılamaz (inseparable)
 
 ---
 
 ## 📊 Hafta Sonu Değerlendirme
 
 ### Tamamlanan Hedefler
-- [ ] 15+ yeni kelime öğrenildi (people, routines, time)
-- [ ] 60-90 sn konuşma kaydı yapıldı (kendini tanıtma)
-- [ ] 5 gramer cümlesi + 1 kısa metin yazıldı
+- [x] 34 yeni kelime/yapı öğrenildi ✓ (hedef: 25) - %136
+- [ ] 60-90 sn konuşma kaydı yapıldı (kendini tanıtma) - Atlandi (sesli okuma ile değiştirildi)
+- [x] Yazma pratiği tamamlandı ✓ (3 paragraf + 14 teknik cümle)
 - [x] 1 podcast dinlendi ve 3 cümle özet yazıldı ✓ (BBC 6 Min - Abi Robot)
-- [ ] Günlük tekrarlar tamamlandı (__/7 gün)
+- [x] Günlük tekrarlar tamamlandı (4/4 gün) ✓
 
 ### Metrikler
-- **Toplam Çalışma Saati**: 4 saat (4 gün × 60dk)
-- **Yeni Kelime**: ___ / 15
+- **Toplam Çalışma Saati**: 3.67 saat (~220 dk / hedef: 240 dk) - %92 ✓
+- **Yeni Kelime**: 34 / 25 (hedef) - %136 ✓
 - **Dinleme Süresi**: ~6 dakika
-- **Konuşma Kayıt**: 60-90 sn
-- **Yazma**: 5 cümle + ~60 kelime paragraf
-- **Okuma WPM**: ___
+- **Konuşma**: Sesli okuma (2 kez)
+- **Yazma**: 4 aktivite (~260 kelime + 14 cümle)
+- **Okuma**: 1 metin (~400 kelime, %80 anlama)
+- **Gramer Düzeltmeleri**: 59 adet (9+8+34+8)
+
+### Başarılar 🎉
+- **4/4 gün tamamlandı!** Hedeflenen tüm günler başarıyla tamamlandı
+- Kelime hedefi aşıldı (%136)
+- 59 gramer hatası tespit edilip düzeltildi
+- Phrasal verbs öğrenildi (8 adet)
+- İş yerinde pratik yapma fırsatı bulundu
 
 ### Zorluklar
-- To be ve Simple Present'i karıştırdığım yerler: ___
-- Telaffuz zorluğu çektiğim kelimeler: ___
-- Diğer: ___
+- **Artikel kullanımı**: "the", "a", "an" eklemeyi unutuyorum
+- **Edat kullanımı**: "of", "to", "with" gibi edatları atlamama eğilimim var
+- **Özne kullanımı**: "it is", "it's" gibi özneleri bazen unutuyorum
+- **WPM ölçümü**: Henüz yapmadım (Hafta 2'de yapılacak)
 
-### Hatalar ve Düzeltmeler
-1. **Hata**: ___ → **Doğru**: ___
-2. **Hata**: ___ → **Doğru**: ___
-3. **Hata**: ___ → **Doğru**: ___
+### En Yaygın 5 Hata
+1. **Artikel eksikliği** (10+ hata): "undo changes" → "undo the changes"
+2. **Edat eksikliği** (8+ hata): "usage area custom modal" → "usage area of the custom modal"
+3. **Özne eksikliği** (6+ hata): "yes is running" → "Yes, it's running"
+4. **Büyük harf** (10+ hata): "sivas", "saturdays" → "Sivas", "Saturdays"
+5. **Doğal ifade** (8+ hata): "make muscle" → "build muscle"
 
 ### Gelecek Hafta İçin Notlar
-- Hafta 2'de günlük rutinleri anlatmaya odaklan
-- Present Continuous'a hazırlan
-- Yer ve yön kelimeleri öğren
+- ✅ Her cümle yazdığımda artikel kontrolü yapmak
+- ✅ Teknik terimler için doğru formatı öğrenmek
+- ✅ Phrasal verbs'ü günlük kullanıma dahil etmek
+- ✅ Okuma hızını ölçmek (WPM hedefi: 100-120)
+- ✅ Present Continuous'a hazırlanmak
+- ✅ More complex writing (150+ words)
 
 ---
 
